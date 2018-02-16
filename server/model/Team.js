@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const teamSchema = new mongoose.Schema({
   name: String,
   logoUrl: String,
-  desc: String,
+  description: String,
   fromCountry: String,
   region: String,
   captain: String,
