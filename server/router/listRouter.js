@@ -15,9 +15,9 @@ router.get('/team/:id', teamController.teamDetails)
 router.delete('/team/:id', teamController.teamDelete)
 
 //CRD member
-// router.post('/member', memberController.memberPost)
-// router.get('/member', memberController.allMember)
-// router.get('/member/:id', memberController.memberDetails)
-// router.delete('/member/:id', memberController.memberDelete)
+router.post('/member', memberController.memberPost)
+router.get('/member', memberController.allMember)
+router.get('/member/:id', memberController.memberDetails)
+router.delete('/member/:id', memberController.memberDelete)
 
 module.exports = router;

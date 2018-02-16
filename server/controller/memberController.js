@@ -71,8 +71,8 @@ const memberDelete = (req, res) => {
 
 
 module.exports = {
-  // memberPost,
-  // allMember,
-  // memberDetails,
-  // memberDelete
+  memberPost,
+  allMember,
+  memberDetails,
+  memberDelete
 };

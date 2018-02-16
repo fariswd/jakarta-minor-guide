@@ -2,7 +2,7 @@ require('dotenv').config()
 const app         = require('express')();
 const bodyParser  = require('body-parser')
 const logger      = require('morgan')
-const mongoose    = require('mongoose').connect(process.env.DB_HOST)
+const mongoose    = require('mongoose').connect(process.env.DB)
 const listRouter  = require('./router/listRouter')
 
 app.use(bodyParser.urlencoded({ extended: false })) // parse application/x-www-form-urlencoded
