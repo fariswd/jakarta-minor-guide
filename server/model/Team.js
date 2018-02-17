@@ -5,12 +5,13 @@ const teamSchema = new mongoose.Schema({
   logoUrl: String,
   description: String,
   fromCountry: String,
+  coaches: String,
   region: String,
   captain: String,
-  leader: String,
+  manager: String,
   socialMedia: Array,
   sponsor: Array,
-  totalEarning: Number,
+  totalEarning: String,
   createdAt: {
     type: Date,
     default: Date.now

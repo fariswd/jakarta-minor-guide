@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Natus Vincere",
+    "logoUrl": "http://liquipedia.net/commons/images/d/d6/Natus_Vincere.png",
+    "description": "",
+    "fromCountry": "Ukraine",
+    "region": "Commonwealth of Independent States",
+    "coaches": "(XBOCT) Alexander Dashkevich",
+    "captain": "(Lil) Ilya Ilyuk",
+    "manager": "(Caff) Igor Sidorenko",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "http://navi.gg"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/NatusVincere"
+      }, {
+        "type": "vk",
+        "url": "https://vk.com/natus.vincere"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/team/navi"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/NatusVincere"
+      }, {
+        "type": "youtube",
+        "url": "http://www.youtube.com/natusvinceretv"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/natus_vincere_official"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/teams/36"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/teams/36"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Natus_Vincere#Organization"
+      }],
+    "sponsor": [
+      "G2A",
+      "HyperX",
+      "Jetradar",
+      "DXRacer",
+      "Twitch.tv",
+      "3ОНА 51",
+      "Kiev CyberSport Arena",
+      "GG.BET",
+      "Fragstore",
+      "Newzoo",
+      "NVIDIA",
+      "Monster"
+    ],
+    "totalEarning": "$3,850,542",
+    "createdAt": "2010-10-22"
+  },
+  {
+    "name": "Evil Geniuses",
+    "logoUrl": "http://liquipedia.net/commons/images/1/1a/EG.png",
+    "description": "",
+    "fromCountry": "United States",
+    "region": "North America",
+    "manager": "(Tallgeese) Phillip Aram",
+    "captain": "(MISERY) Rasmus Filipsen",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "http://www.evilgeniuses.gg/"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/EvilGeniuses"
+      }, {
+        "type": "vk",
+        "url": "https://vk.com/evilgeniuses"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/EvilGeniuses"
+      }, {
+        "type": "youtube",
+        "url": "http://www.youtube.com/myEGnet"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/teams/39"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/teams/39"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Evil_Geniuses"
+      }],
+    "sponsor": [
+      "Monster Energy",
+      "xfinity",
+      "SteelSeries",
+      "SanDisk",
+      "AMD",
+      "SCUFGaming",
+      "DesignByHumans",
+      "NEEDforSEAT USA",
+      "Hisense",
+      "Twitch"
+    ],
+    "totalEarning": "$14,871,667",
+    "createdAt": "2011-10-24"
+  },
+  {
+    "name": "Fnatic",
+    "logoUrl": "http://liquipedia.net/commons/images/d/db/Fnaticlogo.png",
+    "description": "",
+    "fromCountry": "Malaysia",
+    "region": "Southeast Asia",
+    "coaches": "(Adam) Adam Erwann Shah bin Akhtar Hussein",
+    "manager": "(ReiNNNN) Eric Khor",
+    "captain": "(EternaLEnVy) Jacky Mao",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "http://www.fnatic.com/"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/Fnatic"
+      }, {
+        "type": "vk",
+        "url": "https://vk.com/teamfnatic"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/team/fnatic"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/FNATIC"
+      }, {
+        "type": "youtube",
+        "url": "http://www.youtube.com/fnaticTV"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/fnatic"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/teams/350190"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/teams/350190"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Fnatic"
+      }],
+    "sponsor": [
+      "gg.bet",
+      "Fnatic Gear",
+      "Monster",
+      "Zowie Monitor",
+      "MSI",
+      "AMD",
+      "AlphaDraft",
+      "Newzoo",
+      "Twitch",
+      "DXSeat"
+    ],
+    "totalEarning": "$2,634,555",
+    "createdAt": "2011-11-07"
+  },
+  {
+    "name": "Iceberg Esports",
+    "logoUrl": "http://liquipedia.net/commons/images/3/3e/Icebergesportslogo.png",
+    "description": "",
+    "fromCountry": "Canada",
+    "region": "North America",
+    "captain": "(Kitrak) Kartik Rathi",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "http://www.icebergesports.ca/"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/EsportsIceberg"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/icebergesports"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/icebergesports"
+      }, {
+        "type": "youtube",
+        "url": "http://www.youtube.com/channel/UC-ynYBq4cIQXDVSqbpOzcSw"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/esportsiceberg"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/teams/5196328"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/teams/5196328"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Iceberg_Esports"
+      }],
+    "createdAt": "2017-09-01"
+  },,
+  {
+    "name": "VGJ.Thunder",
+    "logoUrl": "http://liquipedia.net/commons/images/6/69/VGJ.Thunder_logo_dark.png",
+    "description": "",
+    "fromCountry": "China",
+    "region": "China",
+    "coaches": "(rOtk) Bai Fan",
+    "manager": "Xu Xiaoyun",
+    "captain": "(Fade) Pan Yi",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "https://teamvgj.co/"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/TeamVGJ"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/Team_VGJ"
+      }, {
+        "type": "weibo",
+        "url": "http://weibo.com/TeamVGJ"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/teamvgj"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/teams/5027210"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/teams/5027210"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/VGJ.Thunder"
+      }],
+    "sponsor": [
+      "Monster Energy",
+      "VPGAME",
+      "BLASOUL",
+      "Mr. Cat"
+    ],
+    "totalEarning": "$503,607",
+    "createdAt": "2016-09-17"
+  },
+  {
+    "name": "Infamous",
+    "logoUrl": "http://liquipedia.net/commons/images/5/5a/LOGO-INFAMOUS-COMERCIAL.png",
+    "description": "",
+    "fromCountry": "Peru",
+    "region": "South America",
+    "manager": "(Xtian) Christian Roque",
+    "captain": "(Papita) Mariano Caneda",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "http://www.infamous.gg/"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/infamousgamingteam"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/infamousgaminghouse"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/infamous_gg"
+      }, {
+        "type": "youtube",
+        "url": "http://www.youtube.com/channel/UCTCbz_fIrKmV1-hIXBO3loQ"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/_infamous_gaming"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.datdota.com/teams/5065748"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/teams/350190"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Infamous"
+      }],
+    "sponsor": [
+      "Fiberlux",
+      "Lenovo Peru",
+      "Pagoefectivo"
+    ],
+    "totalEarning": "$313,816",
+    "createdAt": "2015-12-30"
+  },
+  {
+    "name": "The Final Tribe",
+    "logoUrl": "http://liquipedia.net/commons/images/d/db/Fnaticlogo.png",
+    "description": "",
+    "fromCountry": "Europe",
+    "region": "Europe",
+    "captain": "(Era) Adrian Kryeziu",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "https://www.thefinaltribe.gg/"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/thefinaltribe"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/thefinaltribe"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/teams//5059375"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/teams//5059375"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/The_Final_Tribe"
+      }],
+    "createdAt": "2017-10-04"
+  }
+]
