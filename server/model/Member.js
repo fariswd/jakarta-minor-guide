@@ -9,6 +9,7 @@ const memberSchema = new mongoose.Schema({
   signatureHero: Array,
   role: Array,
   socialMedia: Array,
+  approx: String,
   teamId: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Team'

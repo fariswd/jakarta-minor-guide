@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Artour Babaev",
+    "nick": "Arteezy",
+    "birthDate": "July 1, 1996",
+    "country": "Canada",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Shadow Fiend",
+        "url": "http://liquipedia.net/commons/images/thumb/7/71/Shadow_Fiend.png/66px-Shadow_Fiend.png"
+      }, {
+        "name": "Lycan",
+        "url": "http://liquipedia.net/commons/images/thumb/1/15/Lycan.png/66px-Lycan.png"
+      }, {
+        "name": "Outworld Devourer",
+        "url": "http://liquipedia.net/commons/images/thumb/4/40/Outworld_Devourer.png/66px-Outworld_Devourer.png"
+      }],
+    "role": ["Solo Middle", "Carry"],
+    "approx": "$1,233,237",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/86745912"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/86745912"
+      }, {
+        "type": "askfm",
+        "url": "http://ask.fm/ybArteezy"
+      }, {
+        "type": "liquiddota",
+        "url": "http://www.liquiddota.com/stream/Arteezy"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/arteezy"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/arteezy"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/arteezydota"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/arteezyarteezy"
+      }, {
+        "type": "vk",
+        "url": "https://vk.com/2ez4rtzdota"
+      }, {
+        "type": "reddit",
+        "url": "http://www.reddit.com/user/ArteezyArteezy"
+      }, {
+        "type": "spotify",
+        "url": "https://play.spotify.com/user/arteezydaboy/playlist/2zfPQrkFJRiTuAAwCnomNN"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Arteezy"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6b"
+  },
+  {
+    "name": "Clinton Loomis",
+    "nick": "Fear",
+    "birthDate": "February 19, 1988",
+    "country": "United States",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Sven",
+        "url": "http://liquipedia.net/commons/images/thumb/d/dd/Sven.png/66px-Sven.png"
+      }, {
+        "name": "Lone Druid",
+        "url": "http://liquipedia.net/commons/images/thumb/3/3d/Lone_Druid.png/66px-Lone_Druid.png"
+      }, {
+        "name": "Anti Mage",
+        "url": "http://liquipedia.net/commons/images/thumb/e/ef/Anti-Mage.png/66px-Anti-Mage.png"
+      }],
+    "role": ["Carry", "Support"],
+    "approx": "$2,437,148",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/87177591"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/87177591"
+      }, {
+        "type": "liquiddota",
+        "url": "http://www.liquiddota.com/stream/FearDotA"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/feardota"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/FearDotA"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/FearDotA"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/feardota51"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Fear"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6b"
+  },
+  {
+    "name": "Syed Sumail Hassan",
+    "nick": "SumaiL",
+    "birthDate": "February 13, 1999",
+    "country": "Pakistan",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Storm Spirit",
+        "url": "http://liquipedia.net/commons/images/thumb/2/25/Storm_Spirit.png/66px-Storm_Spirit.png"
+      }, {
+        "name": "Invoker",
+        "url": "http://liquipedia.net/commons/images/thumb/3/39/Invoker.png/66px-Invoker.png"
+      }, {
+        "name": "Ember Spirit",
+        "url": "http://liquipedia.net/commons/images/thumb/1/1a/Ember_Spirit.png/66px-Ember_Spirit.png"
+      }],
+    "role": ["Offlaner", "Solo Middle"],
+    "approx": "$2,666,268",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/111620041"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/111620041"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/sumaildoto"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/SumaaaaiL"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/demondoto"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/ssumayl"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/SumaiL"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6b"
+  },
+  {
+    "name": "Andreas Franck Nielsen",
+    "nick": "Cr1t-",
+    "birthDate": "July 13, 1996",
+    "country": "Denmark",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Rikimaru",
+        "url": "http://liquipedia.net/commons/images/thumb/3/39/Riki.png/66px-Riki.png"
+      }, {
+        "name": "Io",
+        "url": "http://liquipedia.net/commons/images/thumb/9/94/Io.png/66px-Io.png"
+      }, {
+        "name": "Earth Spirit",
+        "url": "http://liquipedia.net/commons/images/thumb/4/40/Earth_Spirit.png/66px-Earth_Spirit.png"
+      }],
+    "role": ["Support"],
+    "approx": "$982,302",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/25907144"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/25907144"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/cr1tdota"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/Cr1tdota"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/Cr1tdota"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/Cr1tdota"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Cr1t-"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6b"
+  },
+  {
+    "name": "Rasmus Berth Filipsen",
+    "nick": "MiSeRy",
+    "birthDate": "July 14, 1991",
+    "country": "Denmark",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Lion",
+        "url": "http://liquipedia.net/commons/images/thumb/4/47/Lion.png/66px-Lion.png"
+      }, {
+        "name": "Slardar",
+        "url": "http://liquipedia.net/commons/images/thumb/7/7b/Slardar.png/66px-Slardar.png"
+      }, {
+        "name": "Nyx Assassin",
+        "url": "http://liquipedia.net/commons/images/thumb/9/9e/Nyx_Assassin.png/66px-Nyx_Assassin.png"
+      }],
+    "role": ["Support", "Captain"],
+    "approx": "$1,374,487",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "http://miserytheslayer.blogspot.se/"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/87382579"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/87382579"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/miserydota"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/MiSeRyDOTA"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/pages/MiSeRy-/136022989819147"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/miserydota"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/MiSeRy"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6b"
+  },
+  {
+    "name": "Jacky Mao",
+    "nick": "EternaLEnVy",
+    "birthDate": "July 2, 1991",
+    "country": "Canada",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Luna",
+        "url": "http://liquipedia.net/commons/images/thumb/1/13/Luna.png/66px-Luna.png"
+      }, {
+        "name": "Ember Spirit",
+        "url": "http://liquipedia.net/commons/images/thumb/1/1a/Ember_Spirit.png/66px-Ember_Spirit.png"
+      }, {
+        "name": "Terrorblade",
+        "url": "http://liquipedia.net/commons/images/thumb/7/72/Terrorblade.png/66px-Terrorblade.png"
+      }],
+    "role": ["Carry", "Captain"],
+    "approx": "$850,669",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/43276219"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/43276219"
+      }, {
+        "type": "askfm",
+        "url": "http://ask.fm/EternaLEnVy1991"
+      }, {
+        "type": "liquiddota",
+        "url": "http://www.liquiddota.com/stream/EternaLEnVyy"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/eternalenvyy"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/eternalenvy1991"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/EternaLEnVyy"
+      }, {
+        "type": "reddit",
+        "url": "http://www.reddit.com/user/EternaLEnVy"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/EternaLEnVy"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6c"
+  },
+  {
+    "name": "Abed Azel L. Yusop",
+    "nick": "Abed",
+    "birthDate": "August 2, 2000",
+    "country": "Philippines",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Meepo",
+        "url": "http://liquipedia.net/commons/images/thumb/0/03/Meepo.png/66px-Meepo.png"
+      }, {
+        "name": "Invoker",
+        "url": "http://liquipedia.net/commons/images/thumb/3/39/Invoker.png/66px-Invoker.png"
+      }, {
+        "name": "Tinker",
+        "url": "http://liquipedia.net/commons/images/thumb/e/ec/Tinker.png/66px-Tinker.png"
+      }],
+    "role": ["Solo Middle", "Carry"],
+    "approx": "$121,500",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/154715080"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/154715080"
+      }, {
+        "type": "website",
+        "url": "http://abedyusop.com/"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/abed_dota"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/abedyusop"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/abed.official"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Abed"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6c"
+  },
+  {
+    "name": "Saahil Arora",
+    "nick": "UNiVeRsE",
+    "birthDate": "October 11, 1989",
+    "country": "United States",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Faceless Void",
+        "url": "http://liquipedia.net/commons/images/thumb/0/03/Faceless_Void.png/66px-Faceless_Void.png"
+      }, {
+        "name": "Earthshaker",
+        "url": "http://liquipedia.net/commons/images/thumb/b/bd/Earthshaker.png/66px-Earthshaker.png"
+      }, {
+        "name": "Dark Seer",
+        "url": "http://liquipedia.net/commons/images/thumb/f/f7/Dark_Seer.png/66px-Dark_Seer.png"
+      }],
+    "role": ["Offlaner"],
+    "approx": "$2,936,185",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/87276347"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/87276347"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/universedota"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/UniverseDota"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/EGUniverse-1417797578434526"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/arora.saahil"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/UNiVeRsE"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6c"
+  },
+  {
+    "name": "Djardel Jicko B. Mampusti",
+    "nick": "DJ",
+    "birthDate": "November 6, 1994",
+    "country": "Philippines",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Enigma",
+        "url": "http://liquipedia.net/commons/images/thumb/8/8b/Enigma.png/66px-Enigma.png"
+      }, {
+        "name": "Enchantress",
+        "url": "http://liquipedia.net/commons/images/thumb/9/99/Enchantress.png/66px-Enchantress.png"
+      }, {
+        "name": "Earth Spirit",
+        "url": "http://liquipedia.net/commons/images/thumb/4/40/Earth_Spirit.png/66px-Earth_Spirit.png"
+      }],
+    "role": ["Support", "Offlaner"],
+    "approx": "$509,826",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/102099826"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/102099826"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/djdoto"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/DjardelJicko"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/djardelm"
+      },{
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/DJ"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6c"
+  },
+]
