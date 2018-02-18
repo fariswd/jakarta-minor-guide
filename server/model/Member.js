@@ -5,6 +5,7 @@ const memberSchema = new mongoose.Schema({
   nick: String,
   birthDate: Date,
   imageUrl: String,
+  imageSrc: String,
   description: String,
   signatureHero: Array,
   role: Array,

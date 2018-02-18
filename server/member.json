@@ -4,7 +4,8 @@
     "nick": "Arteezy",
     "birthDate": "July 1, 1996",
     "country": "Canada",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/arteezy.jpg",
+    "imageSrc": "https://twitter.com/faceit_mikey/status/490249264858415104",
     "description": "",
     "signatureHero": [
       {
@@ -65,7 +66,8 @@
     "nick": "Fear",
     "birthDate": "February 19, 1988",
     "country": "United States",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/fear.JPG",
+    "imageSrc": "https://www.gosugamers.net/dota2/news/45247-fear-ends-his-retirement-to-captain-evil-geniuses",
     "description": "",
     "signatureHero": [
       {
@@ -114,7 +116,8 @@
     "nick": "SumaiL",
     "birthDate": "February 13, 1999",
     "country": "Pakistan",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/sumail.jpg",
+    "imageSrc": "http://www.liquiddota.com/forum/dota-2-general/522153-if-esports-explodes-does-dota-2-care",
     "description": "",
     "signatureHero": [
       {
@@ -160,7 +163,8 @@
     "nick": "Cr1t-",
     "birthDate": "July 13, 1996",
     "country": "Denmark",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/crit.jpg",
+    "imageSrc": "http://xgames.espn.com/xgames/esports/article/18534750/2017-dota-pit-season-5-evil-geniuses-overthrow-og-grand-finals",
     "description": "",
     "signatureHero": [
       {
@@ -206,7 +210,8 @@
     "nick": "MiSeRy",
     "birthDate": "July 14, 1991",
     "country": "Denmark",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/misery.jpg",
+    "imageSrc": "https://www.eslgaming.com/article/top-16-photos-esl-one-new-york-1394",
     "description": "",
     "signatureHero": [
       {
@@ -255,7 +260,8 @@
     "nick": "EternaLEnVy",
     "birthDate": "July 2, 1991",
     "country": "Canada",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/ee.jpg",
+    "imageSrc": "https://www.thescoreesports.com/news/9909",
     "description": "",
     "signatureHero": [
       {
@@ -307,7 +313,8 @@
     "nick": "Abed",
     "birthDate": "August 2, 2000",
     "country": "Philippines",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/abed.jpeg",
+    "imageSrc": "https://duniagames.co.id/news/1119-abed-yusop-tinggalkan-tim-dota-2-execration-istirahat-sejenak-dari-dunia-kompetitif-dota",
     "description": "",
     "signatureHero": [
       {
@@ -353,7 +360,8 @@
     "nick": "UNiVeRsE",
     "birthDate": "October 11, 1989",
     "country": "United States",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/universe.jpg",
+    "imageSrc": "http://esportsjunkie.com/2017/12/ppds-opinion-universe-eg/",
     "description": "",
     "signatureHero": [
       {
@@ -399,7 +407,8 @@
     "nick": "DJ",
     "birthDate": "November 6, 1994",
     "country": "Philippines",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/dj.jpg",
+    "imageSrc": "https://www.youtube.com/watch?v=Em9x70ADPX4",
     "description": "",
     "signatureHero": [
       {
@@ -438,11 +447,56 @@
     "teamId": "5a882ef6358fda26bb2dbe6c"
   },
   {
+    "name": "Johan Åström",
+    "nick": "pieliedie",
+    "birthDate": "November 6, 1994",
+    "country": "Sweden",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/pieliedie.jpg",
+    "imageSrc": "https://www.youtube.com/watch?v=zSLbxK2OhKs",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Bounty Hunter",
+        "url": "http://liquipedia.net/commons/images/thumb/1/1d/Bounty_Hunter.png/66px-Bounty_Hunter.png"
+      }, {
+        "name": "Bane",
+        "url": "http://liquipedia.net/commons/images/thumb/9/9a/Bane.png/66px-Bane.png"
+      }, {
+        "name": "Io",
+        "url": "http://liquipedia.net/commons/images/thumb/9/94/Io.png/66px-Io.png"
+      }],
+    "role": ["Support"],
+    "approx": "$748,738",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/6922000"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/6922000"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/pieliedie"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/PieLieDieDota"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/pieliediedota"
+      },{
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Pieliedie"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6c"
+  },
+  {
     "name": "Vladislav Krystanek",
     "nick": "Crystallize",
     "birthDate": "August 8, 1999",
     "country": "Ukraine",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/crystallize.jpg",
+    "imageSrc": "http://navi.gg/en/read/text/591-crystallize-on-helpflow-tournament",
     "description": "",
     "role": ["Carry"],
     "approx": "$39,321",
@@ -468,7 +522,8 @@
     "nick": "Dendi",
     "birthDate": "December 30, 1989",
     "country": "Ukraine",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/dendi.jpg",
+    "imageSrc": "https://www.gosugamers.net/dota2/news/44834-the-international-2017-first-ti-without-dendi-and-natus-vincere",
     "description": "",
     "signatureHero": [
       {
@@ -520,7 +575,8 @@
     "nick": "GeneRaL",
     "birthDate": "August 5, 1996",
     "country": "Ukraine",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/general.jpeg",
+    "imageSrc": "https://dota2.ru/news/6375-novyj-igrok-natus-vincere/",
     "description": "",
     "signatureHero": [
       {
@@ -566,7 +622,8 @@
     "nick": "Lil",
     "birthDate": "December 24, 1995",
     "country": "Ukraine",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/lil.jpg",
+    "imageSrc": "https://cybbet.com/news/3779-Ilya-Lil-Iljuk-Im-sick-of-swearing-with-people-on-the-Internet-Dota-2",
     "description": "",
     "signatureHero": [
       {
@@ -618,7 +675,8 @@
     "nick": "LeBronDota",
     "birthDate": "April 23, 1990",
     "country": "Serbia",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/lebron.jpeg",
+    "imageSrc": "https://duniagames.co.id/index.php/news/6327-setelah-sonneiko-keluar-lebrondota-datang-gantikan-posisi-5-tim-navi",
     "description": "",
     "signatureHero": [
       {
@@ -658,7 +716,8 @@
     "nick": "Sylar",
     "birthDate": "December 20, 1993",
     "country": "China",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/slyar.jpg",
+    "imageSrc": "https://www.esportsonly.com/jiajun-sylar-liu",
     "description": "",
     "signatureHero": [
       {
@@ -698,7 +757,8 @@
     "nick": "Freeze",
     "birthDate": "December 27, 1996",
     "country": "China",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/freeze.jpg",
+    "imageSrc": "http://liquipedia.net/dota2/Freeze",
     "description": "",
     "signatureHero": [
       {
@@ -735,7 +795,8 @@
     "nick": "Yang",
     "birthDate": "November 15, 1996",
     "country": "China",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/yang.jpeg",
+    "imageSrc": "https://ggscore.com/en/dota-2/player/yang",
     "description": "",
     "signatureHero": [
       {
@@ -772,7 +833,8 @@
     "nick": "Fade",
     "birthDate": "November 15, 1996",
     "country": "China",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/fade.jpg",
+    "imageSrc": "https://ggscore.com/en/dota-2/player/fade",
     "description": "",
     "signatureHero": [
       {
@@ -806,7 +868,8 @@
     "nick": "ddc",
     "birthDate": "July 3, 1990",
     "country": "Macau",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/ddc.jpg",
+    "imageSrc": "https://www.youtube.com/watch?v=2F-x85ft7oQ",
     "description": "",
     "signatureHero": [
       {
@@ -845,7 +908,8 @@
     "name": "Ravindu Kodippili",
     "nick": "Ritsu",
     "country": "United States",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/ritsu.jpg",
+    "imageSrc": "https://dotesports.com/the-op/news/cloud9-release-ritsu-dota-2570",
     "description": "",
     "signatureHero": [
       {
@@ -884,7 +948,8 @@
     "name": "Jonathan Bryle Santos De Guia",
     "nick": "Bryle",
     "country": "Canada",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/bryle.JPG",
+    "imageSrc": "https://twitter.com/bryledota",
     "description": "",
     "role": ["Solo Middle"],
     "approx": "$4,500",
@@ -910,7 +975,8 @@
     "nick": "MoonMeander",
     "birthDate": "January 28, 1992",
     "country": "Canada",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/MoonMeander.jpg",
+    "imageSrc": "https://dotablast.com/21096-2/",
     "description": "",
     "signatureHero": [
       {
@@ -968,7 +1034,8 @@
     "nick": "Aui_2000",
     "birthDate": "October 2, 1992",
     "country": "Canada",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/aui2000.jpg",
+    "imageSrc": "https://dotablast.com/digital-chaos-aui_2000-bulba-and-tc-paired-up-with-newcomers/",
     "description": "",
     "signatureHero": [
       {
@@ -1016,7 +1083,8 @@
     "name": "Kartik Rathi",
     "nick": "Kitrak",
     "country": "Canada",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/kitrak.png",
+    "imageSrc": "https://twitter.com/kitrakdota",
     "description": "",
     "signatureHero": [
       {
@@ -1056,7 +1124,8 @@
     "nick": "Kotarō Hayama",
     "birthDate": "January 31, 1997",
     "country": "Peru",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/kotaro.jpg",
+    "imageSrc": "http://liquipedia.net/dota2/Kotar%C5%8D_Hayama",
     "description": "",
     "signatureHero": [
       {
@@ -1099,7 +1168,8 @@
     "nick": "Papita",
     "birthDate": "January 19, 1995",
     "country": "Argentina",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/papita.jpg",
+    "imageSrc": "http://liquipedia.net/dota2/Papita",
     "description": "",
     "signatureHero": [
       {
@@ -1145,7 +1215,8 @@
     "nick": "StingeR",
     "birthDate": "December 15, 1996",
     "country": "Peru",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/stinger.jpg",
+    "imageSrc": "http://liquipedia.net/dota2/StingeR",
     "description": "",
     "signatureHero": [
       {
@@ -1182,7 +1253,8 @@
     "nick": "Scofield",
     "birthDate": "April 29, 1998",
     "country": "Peru",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/Scofield.jpg",
+    "imageSrc": "https://www.dotabuff.com/players/105778326",
     "description": "",
     "role": ["Support"],
     "approx": "$16,128",
@@ -1208,7 +1280,8 @@
     "nick": "Accel",
     "birthDate": "January 19, 1995",
     "country": "Peru",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/accel.jpg",
+    "imageSrc": "https://www.youtube.com/watch?v=J4guPO0EzdE",
     "description": "",
     "signatureHero": [
       {
@@ -1248,7 +1321,8 @@
     "nick": "Era",
     "birthDate": "September 3, 1995",
     "country": "Sweden",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/era.jpg",
+    "imageSrc": "http://www.dotatalk.com/fantic-says-farewell-to-era/",
     "description": "",
     "signatureHero": [
       {
@@ -1287,8 +1361,10 @@
     "teamId": "5a882ef6358fda26bb2dbe70"
   },
   {
+    "name": "Pontus Frost",
     "nick": "NoX",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/nox.jpeg",
+    "imageSrc": "https://ggscore.com/en/dota-2/player/nox",
     "description": "",
     "socialMedia": [
       {
@@ -1315,10 +1391,11 @@
   },
   {
     "name": "Jonas Lindholm",
-    "nick": "Era",
+    "nick": "Jonassomfan",
     "birthDate": "September 22, 1992",
     "country": "Sweden",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/Jonassomfan.jpg",
+    "imageSrc": "http://liquipedia.net/dota2/Jonassomfan",
     "description": "",
     "signatureHero": [
       {
@@ -1364,7 +1441,8 @@
     "nick": "Pablo",
     "birthDate": "August 31, 1995",
     "country": "Sweden",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/pablo.png",
+    "imageSrc": "https://ggscore.com/en/dota-2/player/pablo",
     "description": "",
     "signatureHero": [
       {
@@ -1404,7 +1482,8 @@
     "nick": "Handsken",
     "birthDate": "April 24, 1994",
     "country": "Sweden",
-    "imageUrl": "",
+    "imageUrl": "http://gesc.masfaris.com/assets/img/Handsken.jpg",
+    "imageSrc": "http://liquipedia.net/dota2/Handsken",
     "description": "",
     "signatureHero": [
       {
@@ -1444,5 +1523,5 @@
       }
     ],
     "teamId": "5a882ef6358fda26bb2dbe70"
-  },
+  }
 ]
