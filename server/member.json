@@ -1051,4 +1051,398 @@
     ],
     "teamId": "5a882ef6358fda26bb2dbe6d"
   },
+  {
+    "name": "Alonso León",
+    "nick": "Kotarō Hayama",
+    "birthDate": "January 31, 1997",
+    "country": "Peru",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Templar Assassin",
+        "url": "http://liquipedia.net/commons/images/thumb/2/27/Templar_Assassin.png/66px-Templar_Assassin.png"
+      }, {
+        "name": "Huskar",
+        "url": "http://liquipedia.net/commons/images/thumb/2/2b/Huskar.png/66px-Huskar.png"
+      }, {
+        "name": "Shadow Fiend",
+        "url": "http://liquipedia.net/commons/images/thumb/7/71/Shadow_Fiend.png/66px-Shadow_Fiend.png"
+      }],
+    "role": ["Carry", "Solo Middle"],
+    "approx": "$46,778",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/95825708"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/95825708"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/KotaroHayama_"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/kotarohayama_"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/mnzkotaro"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Kotar%C5%8D_Hayama"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6f"
+  },
+  {
+    "name": "Mariano Caneda",
+    "nick": "Papita",
+    "birthDate": "January 19, 1995",
+    "country": "Argentina",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Invoker",
+        "url": "http://liquipedia.net/commons/images/thumb/3/39/Invoker.png/66px-Invoker.png"
+      }, {
+        "name": "Ember Spirit",
+        "url": "http://liquipedia.net/commons/images/thumb/1/1a/Ember_Spirit.png/66px-Ember_Spirit.png"
+      }, {
+        "name": "Queen of Pain",
+        "url": "http://liquipedia.net/commons/images/thumb/b/b5/Queen_of_Pain.png/66px-Queen_of_Pain.png"
+      }],
+    "role": ["Offlaner", "Solo Middle"],
+    "approx": "$18,275",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/28070572"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/28070572"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/p4pita"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/p4pitaDOTA"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/p4pita"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/mariano.caneda"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Papita"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6f"
+  },
+  {
+    "name": "Steven Vargas",
+    "nick": "StingeR",
+    "birthDate": "December 15, 1996",
+    "country": "Peru",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Tusk",
+        "url": "http://liquipedia.net/commons/images/thumb/4/42/Tusk.png/66px-Tusk.png"
+      }, {
+        "name": "Vengeful Spirit",
+        "url": "http://liquipedia.net/commons/images/thumb/7/78/Vengeful_Spirit.png/66px-Vengeful_Spirit.png"
+      }, {
+        "name": "Natures Prophet",
+        "url": "http://liquipedia.net/commons/images/thumb/0/0c/Natures_Prophet.png/66px-Natures_Prophet.png"
+      }],
+    "role": ["Support"],
+    "approx": "$43,237",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/119631156"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/119631156"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/StingeRDota"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/StingeR"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6f"
+  },
+  {
+    "name": "Elvis De la Cruz Peña",
+    "nick": "Scofield",
+    "birthDate": "April 29, 1998",
+    "country": "Peru",
+    "imageUrl": "",
+    "description": "",
+    "role": ["Support"],
+    "approx": "$16,128",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/157989498"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/157989498"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/ScofieldDoto"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Scofield"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6f"
+  },
+  {
+    "name": "Christian Cruz",
+    "nick": "Accel",
+    "birthDate": "January 19, 1995",
+    "country": "Peru",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Lion",
+        "url": "http://liquipedia.net/commons/images/thumb/4/47/Lion.png/66px-Lion.png"
+      }, {
+        "name": "Dazzle",
+        "url": "http://liquipedia.net/commons/images/thumb/7/74/Dazzle.png/66px-Dazzle.png"
+      }, {
+        "name": "Winter Wyvern",
+        "url": "http://liquipedia.net/commons/images/thumb/9/92/Winter_Wyvern.png/66px-Winter_Wyvern.png"
+      }],
+    "role": ["Support"],
+    "approx": "$68,486",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/99796146"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/99796146"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/Accelgd"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/Accelgd39"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Accel"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe6f"
+  },
+  {
+    "name": "Adrian Kryeziu",
+    "nick": "Era",
+    "birthDate": "September 3, 1995",
+    "country": "Sweden",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Lifestealer",
+        "url": "http://liquipedia.net/commons/images/thumb/6/65/Lifestealer.png/66px-Lifestealer.png"
+      }, {
+        "name": "Tiny",
+        "url": "http://liquipedia.net/commons/images/thumb/7/75/Tiny.png/66px-Tiny.png"
+      }, {
+        "name": "Luna",
+        "url": "http://liquipedia.net/commons/images/thumb/1/13/Luna.png/66px-Luna.png"
+      }],
+    "role": ["Carry"],
+    "approx": "$125,266",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/100317750"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/100317750"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/era17"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/eradota"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/EraDota"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Era"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe70"
+  },
+  {
+    "nick": "NoX",
+    "imageUrl": "",
+    "description": "",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/100317750"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/100317750"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/era17"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/eradota"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/EraDota"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/NoX"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe70"
+  },
+  {
+    "name": "Jonas Lindholm",
+    "nick": "Era",
+    "birthDate": "September 22, 1992",
+    "country": "Sweden",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Axe",
+        "url": "http://liquipedia.net/commons/images/thumb/f/fb/Axe.png/66px-Axe.png"
+      }, {
+        "name": "Clockwerk",
+        "url": "http://liquipedia.net/commons/images/thumb/b/b3/Clockwerk.png/66px-Clockwerk.png"
+      }, {
+        "name": "Batrider",
+        "url": "http://liquipedia.net/commons/images/thumb/5/5e/Batrider.png/66px-Batrider.png"
+      }],
+    "role": ["Offlaner"],
+    "approx": "$97,380",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/40209325"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/40209325"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/jonassomfan"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/jonassomfan"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/Jonassomfan"
+      }, {
+        "type": "instagram",
+        "url": "http://www.instagram.com/jonassomshit"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Jonassomfan"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe70"
+  },
+  {
+    "name": "Axel Källman",
+    "nick": "Pablo",
+    "birthDate": "August 31, 1995",
+    "country": "Sweden",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Rubick",
+        "url": "http://liquipedia.net/commons/images/thumb/3/37/Rubick.png/66px-Rubick.png"
+      }, {
+        "name": "Winter Wyvern",
+        "url": "http://liquipedia.net/commons/images/thumb/9/92/Winter_Wyvern.png/66px-Winter_Wyvern.png"
+      }, {
+        "name": "Skywrath Mage",
+        "url": "http://liquipedia.net/commons/images/thumb/5/51/Skywrath_Mage.png/66px-Skywrath_Mage.png"
+      }],
+    "role": ["Support"],
+    "approx": "$10,582",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/117015167"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/117015167"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/pablogaming13"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/followpablo_"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Pablo"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe70"
+  },
+  {
+    "name": "Simon Haag",
+    "nick": "Handsken",
+    "birthDate": "April 24, 1994",
+    "country": "Sweden",
+    "imageUrl": "",
+    "description": "",
+    "signatureHero": [
+      {
+        "name": "Disruptor",
+        "url": "http://liquipedia.net/commons/images/thumb/c/ce/Disruptor.png/66px-Disruptor.png"
+      }, {
+        "name": "Io",
+        "url": "http://liquipedia.net/commons/images/thumb/9/94/Io.png/66px-Io.png"
+      }, {
+        "name": "Chen",
+        "url": "http://liquipedia.net/commons/images/thumb/8/80/Chen.png/66px-Chen.png"
+      }],
+    "role": ["Support"],
+    "approx": "$174,451",
+    "socialMedia": [
+      {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/players/18180970"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/players/18180970"
+      }, {
+        "type": "liquiddota",
+        "url": "http://www.liquiddota.com/stream/Handsken"
+      }, {
+        "type": "twitch",
+        "url": "https://www.twitch.tv/handsken"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/Handsken1"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/Handsken1"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Handsken"
+      }
+    ],
+    "teamId": "5a882ef6358fda26bb2dbe70"
+  },
 ]
