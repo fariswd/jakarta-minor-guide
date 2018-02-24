@@ -1,5 +1,11 @@
 # server side
 
+## Run This?
+1. git clone git@github.com:fariswd/jakarta-minor-guide.git
+2. cd jakarta-minor-guide
+3. npm run dev
+4. server will run on port 3000
+
 ## Version
 {version}: v1
 
