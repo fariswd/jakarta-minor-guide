@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
 //CRD team
 router.post('/team', teamController.teamPost)
 router.get('/team', teamController.allTeam)
-router.get('/team/:id', teamController.teamDetails)
+router.get('/team/:id', memberController.getTeam)
 router.delete('/team/:id', teamController.teamDelete)
 
 //CRD member

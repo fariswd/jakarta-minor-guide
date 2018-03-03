@@ -1,4 +1,5 @@
 import React from 'react'
+import axios from 'axios'
 import {
   Text,
   View,
@@ -6,7 +7,7 @@ import {
   ScrollView,
   Dimensions,
 } from 'react-native'
-
+import { config } from '../constant/config'
 const { height, width } = Dimensions.get('screen')
 
 export default class Profile extends React.Component {
@@ -16,9 +17,11 @@ export default class Profile extends React.Component {
 
   constructor(props) {
     super(props)
+    this.loading = false
     const { navigation: {
       state: {
         params: {
+          _id,
           name,
           logoUrl,
           description,
@@ -35,6 +38,7 @@ export default class Profile extends React.Component {
     }, } = this.props
 
     this.state = {
+      _id,
       name,
       logoUrl,
       description,
@@ -49,8 +53,20 @@ export default class Profile extends React.Component {
     }
   }
 
+  getMembers() {
+    const { apiUrl } = config
+    this.loading = true
+    axios.get(apiUrl + 'v1/team/' + this.state._id)
+    .then(({ data: { response }, }) => {
+      this.loading = false
+      console.log(response)
+    })
+    .catch(err => console.log(err))
+  }
+
   componentDidMount() {
-    console.log(this.props.navigation.state.params.title)
+    console.log('CurrentScreen: ', this.props.navigation.state.params.title)
+    this.getMembers()
   }
 
   render() {
