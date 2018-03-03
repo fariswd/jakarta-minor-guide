@@ -28,6 +28,10 @@ export default class Home extends React.Component {
     }
   }
 
+  componentDidMount() {
+    this.getTeam()
+  }
+
   getTeam() {
     const { apiUrl } = config
     this.loading = true
@@ -42,8 +46,9 @@ export default class Home extends React.Component {
   }
 
   renderTeam(team, index) {
+    team.title = 'Team Profile'
     return (
-      <TouchableOpacity key={index} style={style.eachItem}>
+      <TouchableOpacity key={index} style={style.eachItem} onPress={() => this.handleProfile(team)}>
         <Image
           source= {{uri: team.logoUrl}}
           style={{resizeMode: 'contain', width: (height/4)+20, height: (height/4)-50}}
@@ -53,8 +58,9 @@ export default class Home extends React.Component {
     )
   }
 
-  componentDidMount() {
-    this.getTeam()
+  handleProfile(team) {
+    const { navigate } = this.props.navigation
+    navigate('Profile', team)
   }
 
   render() {
