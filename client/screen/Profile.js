@@ -2,16 +2,26 @@ import React from 'react'
 import { Text } from 'react-native'
 
 export default class Profile extends React.Component {
-  constructor() {
-    super()
+  constructor(props) {
+    super(props)
+    const { navigation: {
+      state: {
+        params: {
+          name
+        },
+      },
+    }, } = props
+
+    this.state = {
+      name
+    }
   }
-  componentDidMount() {
-    const { state } = this.props.navigation
-    console.log('------', state)
-  }
+
   render() {
+    const { name } = this.state
+    console.log(name)
     return (
-      <Text>This is Profile</Text>
+      <Text>This is Profile { name }</Text>
     )
   }
 }

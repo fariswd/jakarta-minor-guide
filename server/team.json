@@ -163,8 +163,8 @@
     "createdAt": "2011-11-07"
   },
   {
-    "name": "Iceberg Esports",
-    "logoUrl": "http://liquipedia.net/commons/images/3/3e/Icebergesportslogo.png",
+    "name": "Animal Planet",
+    "logoUrl": "http://liquipedia.net/commons/images/a/ad/Animal_Planet_Logo.png",
     "description": "",
     "fromCountry": "Canada",
     "region": "North America",
@@ -291,7 +291,7 @@
   },
   {
     "name": "The Final Tribe",
-    "logoUrl": "http://liquipedia.net/commons/images/d/db/Fnaticlogo.png",
+    "logoUrl": "http://liquipedia.net/commons/images/thumb/f/f8/The_Final_Tribe_Logo.png/600px-The_Final_Tribe_Logo.png",
     "description": "",
     "fromCountry": "Europe",
     "region": "Europe",
@@ -317,5 +317,44 @@
         "url": "http://liquipedia.net/dota2/The_Final_Tribe"
       }],
     "createdAt": "2017-10-04"
+  },
+  {
+    "name": "Rex Regum Qeon",
+    "logoUrl": "http://liquipedia.net/commons/images/e/ed/Rex_Regum.png",
+    "description": "",
+    "fromCountry": "Indonesia",
+    "region": "Southeast Asia",
+    "coaches": "(Adam) Adam Erwann Shah bin Akhtar Hussein",
+    "manager": "Wilbert Marco",
+    "captain": "(Xepher) Kenny Deo",
+    "socialMedia": [
+      {
+        "type": "website",
+        "url": "http://rrq.qeon.com/"
+      }, {
+        "type": "facebook",
+        "url": "http://facebook.com/Team.RRQ"
+      }, {
+        "type": "twitter",
+        "url": "https://twitter.com/rr_qeon"
+      }, {
+        "type": "dotabuff",
+        "url": "http://www.dotabuff.com/esports/teams/1105664"
+      }, {
+        "type": "datdota",
+        "url": "http://www.datdota.com/teams/1105664"
+      }, {
+        "type": "liquidpedia",
+        "url": "http://liquipedia.net/dota2/Rex_Regum"
+      }],
+    "sponsor": [
+      "Qeon",
+      "Oasis",
+      "MSI",
+      "Biznet",
+      "GO-JEK"
+    ],
+    "totalEarning": "$19,150",
+    "createdAt": "2013-11-07"
   }
 ]
