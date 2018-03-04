@@ -83,13 +83,6 @@ export default class Home extends React.Component {
   }
 }
 
-// <Button
-//   title="Go to Jane's profile"
-//   onPress={() =>
-//     navigate('Profile', { name: 'Jane' })
-//   }
-// />
-
 const style = StyleSheet.create({
   container: {
     flex: 1,
