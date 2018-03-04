@@ -2,9 +2,11 @@
 
 ## Run This?
 1. git clone git@github.com:fariswd/jakarta-minor-guide.git
-2. cd jakarta-minor-guide
-3. npm run dev
-4. server will run on port 3000
+2. cd jakarta-minor-guide/server
+3. npm install
+4. update .env-temp and fill yours, rename to .env
+5. npm run dev
+6. server will run on port 3000
 
 ## Version
 {version}: v1
