@@ -1,27 +1,43 @@
 import React from 'react'
 import axios from 'axios'
 import {
-  Text,
   View,
   Image,
   ScrollView,
   Dimensions,
   ActivityIndicator,
   TouchableOpacity,
+  ImageBackground,
 } from 'react-native'
+import {
+  Container,
+  Header,
+  Text,
+  Body,
+  Title,
+  Icon,
+  Left,
+  Button,
+  Thumbnail,
+  H2,
+} from 'native-base';
+import SocmedIcon from '../components/SocmedIcon'
+import MyStatusBar from '../components/MyStatusBar'
+import { country } from '../helpers/country'
 import { config } from '../constant/config'
 const { height, width } = Dimensions.get('screen')
 
 export default class Profile extends React.Component {
   static navigationOptions = {
     title: 'Profile',
+    header: null,
   }
 
   constructor(props) {
     super(props)
-    this.loading = false
     this.state = {
       members: [],
+      loading: false,
     }
   }
 
@@ -30,6 +46,13 @@ export default class Profile extends React.Component {
     if(this.props.navigation.state.params.title == 'Team Profile') {
       this.getMembers()
     }
+  }
+
+  handleBack() {
+    const { state, goBack } = this.props.navigation;
+    const params = state.params || {};
+    goBack(params.go_back_key);
+    console.log('back')
   }
 
   handleToMemberProfile(member) {
@@ -48,12 +71,15 @@ export default class Profile extends React.Component {
       },
     }, } = this.props
     const { apiUrl } = config
-    this.loading = true
+    this.setState({
+      loading: true
+    })
     axios.get(apiUrl + 'v1/team/' + _id)
     .then(({ data: { response }, }) => {
       this.loading = false
       this.setState({
-        members: response
+        members: response,
+        loading: false
       })
     })
     .catch(err => console.log(err))
@@ -81,32 +107,70 @@ export default class Profile extends React.Component {
     }, } = this.props
     const { members } = this.state
     return (
-      <ScrollView>
-        <Image
-          source= {{uri: logoUrl}}
-          style={{resizeMode: 'contain', width: (height/4)+20, height: (height/4)-50}}
-        />
-        <Text>{ name } { fromCountry }</Text>
-        <Text>Region: { region }</Text>
-        <Text>Captain: { captain }</Text>
-        <Text>Manager: { manager }</Text>
-        <Text>Leader: { leader }</Text>
-        <Text>Socmed: </Text>
-        {socialMedia.map((socmed, i) => <Text key={i}>{ socmed.type }</Text>)}
-        <Text>Sponsor: </Text>
-        {sponsor.map((s, i) => <Text key={i}>{ s }</Text>)}
-        <Text>Member: </Text>
-        {(this.loading)
-          ? <ActivityIndicator size="large" />
-          : members.map((m, i) => {
-            return (
-            <TouchableOpacity key={i} onPress={() => this.handleToMemberProfile(m)}>
-              <Text>{ m.name }</Text>
-            </TouchableOpacity>
-          )})
-        }
-        <Text>Total Earning: { totalEarning }</Text>
-      </ScrollView>
+      <View>
+        <ScrollView>
+          <ImageBackground
+            source={{uri: logoUrl}}
+            style={{
+              height: 200,
+              backgroundColor: 'lightgray',
+            }}
+          >
+            <MyStatusBar backgroundColor="rgba(52, 52, 52, 0.5)" barStyle="light-content" />
+            <Header style={{backgroundColor:'rgba(52, 52, 52, 0.5)'}}>
+              <Left>
+                <Button onPress={() => this.handleBack()} transparent>
+                  <Icon name='arrow-back' />
+                </Button>
+              </Left>
+              <Body>
+                <Title style={{color:'#FFF'}}>{ name }</Title>
+              </Body>
+            </Header>
+          </ImageBackground>
+          <View style={{
+            flexDirection: 'row',
+          }}>
+            <Thumbnail square large source={{uri: logoUrl}}
+              style={{
+                marginTop: -45,
+                marginLeft: 10,
+                borderRadius: 50,
+                borderWidth: 0.5,
+                borderColor: 'black',
+              }}
+            />
+          </View>
+          <View style={{ padding: 10 }}>
+            <H2>{ name } { country(fromCountry) }</H2>
+            <Text>From Country: { fromCountry }</Text>
+            <Text>Region: { region }</Text>
+            { captain && <Text>Captain: { captain }</Text> }
+            { manager && <Text>Manager: { manager }</Text>}
+            { leader && <Text>Leader: { leader }</Text>}
+            <View style={{ flex: 1, flexDirection: 'row', flexWrap: 'wrap' }}>
+              {socialMedia.map((socmed, i) => {
+                return (
+                  <SocmedIcon key={i} type={socmed} />
+                )
+              })}
+            </View>
+            <Text>Sponsor: </Text>
+            {sponsor.map((s, i) => <Text key={i}>{ s }</Text>)}
+            <Text>Member: </Text>
+            {members.length == 0
+              ? <ActivityIndicator size="large" />
+              : members.map((m, i) => {
+                return (
+                <TouchableOpacity key={i} onPress={() => this.handleToMemberProfile(m)}>
+                  <Text>{ m.name }</Text>
+                </TouchableOpacity>
+              )})
+            }
+            <Text>Total Earning: { totalEarning }</Text>
+          </View>
+        </ScrollView>
+      </View>
     )
   }
 

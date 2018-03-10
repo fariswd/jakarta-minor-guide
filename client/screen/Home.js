@@ -20,17 +20,9 @@ import {
   Title,
 } from 'native-base';
 import { config } from '../constant/config'
-
+import MyStatusBar from '../components/MyStatusBar'
 const { height, width } = Dimensions.get('screen')
-
-const STATUSBAR_HEIGHT = Platform.OS === 'ios' ? 20 : StatusBar.currentHeight;
-const APPBAR_HEIGHT = Platform.OS === 'ios' ? 44 : 56;
-
-const MyStatusBar = ({backgroundColor, ...props}) => (
-  <View style={[style.statusBar, { backgroundColor }]}>
-    <StatusBar translucent backgroundColor={backgroundColor} {...props} />
-  </View>
-);
+import { country } from '../helpers/country'
 
 export default class Home extends React.Component {
   static navigationOptions = {
@@ -71,7 +63,7 @@ export default class Home extends React.Component {
           source= {{uri: team.logoUrl}}
           style={{resizeMode: 'contain', width: (height/4)+20, height: (height/4)-50}}
         />
-        <Text style={{color: 'white'}}>{team.name}</Text>
+        <Text style={{color: 'white'}}>{team.name} {country(team.fromCountry)}</Text>
       </TouchableOpacity>
     )
   }
@@ -145,12 +137,5 @@ const style = StyleSheet.create({
     padding: 5,
     margin: 2,
     backgroundColor: 'rgba(52, 52, 52, 0.5)'
-  },
-  statusBar: {
-    height: STATUSBAR_HEIGHT,
-  },
-  appBar: {
-    backgroundColor:'#79B45D',
-    height: APPBAR_HEIGHT,
   },
 })
