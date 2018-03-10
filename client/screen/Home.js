@@ -4,20 +4,38 @@ import {
   StyleSheet,
   View,
   Image,
-  Button,
-  Text,
   ScrollView,
   ActivityIndicator,
   Dimensions,
   TouchableOpacity,
+  StatusBar,
+  Platform,
+  ImageBackground,
 } from 'react-native'
+import {
+  Container,
+  Header,
+  Text,
+  Body,
+  Title,
+} from 'native-base';
 import { config } from '../constant/config'
 
 const { height, width } = Dimensions.get('screen')
 
+const STATUSBAR_HEIGHT = Platform.OS === 'ios' ? 20 : StatusBar.currentHeight;
+const APPBAR_HEIGHT = Platform.OS === 'ios' ? 44 : 56;
+
+const MyStatusBar = ({backgroundColor, ...props}) => (
+  <View style={[style.statusBar, { backgroundColor }]}>
+    <StatusBar translucent backgroundColor={backgroundColor} {...props} />
+  </View>
+);
+
 export default class Home extends React.Component {
   static navigationOptions = {
     title: 'GESC Jakarta Minor',
+    header: null,
   }
 
   constructor() {
@@ -53,7 +71,7 @@ export default class Home extends React.Component {
           source= {{uri: team.logoUrl}}
           style={{resizeMode: 'contain', width: (height/4)+20, height: (height/4)-50}}
         />
-        <Text>{team.name}</Text>
+        <Text style={{color: 'white'}}>{team.name}</Text>
       </TouchableOpacity>
     )
   }
@@ -67,18 +85,36 @@ export default class Home extends React.Component {
     const { navigate } = this.props.navigation
     const { teams } = this.state
     return (
-      <View style={style.container}>
-        { (teams.length > 0)
-          ? (
-            <ScrollView>
-              <View style={style.items}>
-                {teams.map((t, i) => this.renderTeam(t, i))}
-              </View>
-            </ScrollView>
-          )
-          : <ActivityIndicator size="large" />
-        }
-      </View>
+      <Container>
+        <ImageBackground
+          source={{uri: 'http://www.technocrazed.com/wp-content/uploads/2015/12/HD-Space-Wallpaper-For-Background-6.jpg'}}
+          style={{
+            flex: 1,
+            width: width,
+            height: height,
+            resizeMode: 'cover'
+          }}
+          >
+        <MyStatusBar backgroundColor="#000" barStyle="light-content" />
+        <Header style={{backgroundColor:'#000'}}>
+          <Body>
+            <Title style={{color:'#FFF'}}>GESC Teams LineUp</Title>
+          </Body>
+        </Header>
+        <View style={style.container}>
+          { (teams.length > 0)
+            ? (
+              <ScrollView>
+                <View style={style.items}>
+                  {teams.map((t, i) => this.renderTeam(t, i))}
+                </View>
+              </ScrollView>
+            )
+            : <ActivityIndicator size="large" />
+          }
+        </View>
+        </ImageBackground>
+      </Container>
     )
   }
 }
@@ -109,5 +145,13 @@ const style = StyleSheet.create({
     elevation: 1,
     padding: 5,
     margin: 2,
+    backgroundColor: 'rgba(52, 52, 52, 0.5)'
+  },
+  statusBar: {
+    height: STATUSBAR_HEIGHT,
+  },
+  appBar: {
+    backgroundColor:'#79B45D',
+    height: APPBAR_HEIGHT,
   },
 })
