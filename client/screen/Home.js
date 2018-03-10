@@ -92,13 +92,12 @@ export default class Home extends React.Component {
             flex: 1,
             width: width,
             height: height,
-            resizeMode: 'cover'
           }}
           >
-        <MyStatusBar backgroundColor="#000" barStyle="light-content" />
-        <Header style={{backgroundColor:'#000'}}>
-          <Body>
-            <Title style={{color:'#FFF'}}>GESC Teams LineUp</Title>
+        <MyStatusBar backgroundColor="rgba(52, 52, 52, 0.5)" barStyle="light-content" />
+        <Header style={{backgroundColor:'rgba(52, 52, 52, 0.5)'}}>
+          <Body style={{alignItems: 'center'}}>
+            <Title style={{color:'#FFF'}}>GESC Jakarta Minor</Title>
           </Body>
         </Header>
         <View style={style.container}>
